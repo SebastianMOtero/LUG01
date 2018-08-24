@@ -1,0 +1,10 @@
+C:\Users\sebas\source\repos\LUG01\LUG01\bin\Debug\LUG01.exe.config
+C:\Users\sebas\source\repos\LUG01\LUG01\bin\Debug\LUG01.exe
+C:\Users\sebas\source\repos\LUG01\LUG01\bin\Debug\LUG01.pdb
+C:\Users\sebas\source\repos\LUG01\LUG01\obj\Debug\LUG01.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\LUG01\LUG01\obj\Debug\LUG01.Form1.resources
+C:\Users\sebas\source\repos\LUG01\LUG01\obj\Debug\LUG01.Properties.Resources.resources
+C:\Users\sebas\source\repos\LUG01\LUG01\obj\Debug\LUG01.csproj.GenerateResource.cache
+C:\Users\sebas\source\repos\LUG01\LUG01\obj\Debug\LUG01.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\LUG01\LUG01\obj\Debug\LUG01.exe
+C:\Users\sebas\source\repos\LUG01\LUG01\obj\Debug\LUG01.pdb
